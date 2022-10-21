@@ -29,7 +29,8 @@ pipeline {
     	agent any
 
       steps {
-
+        sh 'pwd'
+        sh 'ls -l'
       	sh 'docker build -t sathishbob/spring-petclinic:latest .'
 
       }
