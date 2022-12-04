@@ -1,3 +1,5 @@
+aws_secret="ASLKGCJDURDJHBLHGUY"
+aws_file="shdgfjhbrliqgeiu434567890-"
 test
 
 
