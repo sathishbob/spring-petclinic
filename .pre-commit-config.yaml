@@ -1,0 +1,4 @@
+repos:
+  - repo: git@github.com:sathishbob/spring-petclinic.git
+    hooks:
+      - id: gitleaks
