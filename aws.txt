@@ -1,0 +1,2 @@
+aws_secret: "dflkjabsdvmnzvkbakjh"
+aws_key: "kljlkzxc.zxvljdfv,mdfk"
