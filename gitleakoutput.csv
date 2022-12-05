@@ -1,2 +1,0 @@
-RuleID,Commit,File,SymlinkFile,Secret,Match,StartLine,EndLine,StartColumn,EndColumn,Author,Message,Date,Email,Fingerprint
-aws-access-token,f3ac71facec9831e85613296f27c19d1a00884a3,aws.txt,,AKIAIMNOJVGFDXXXE4OA,AKIAIMNOJVGFDXXXE4OA,1,1,13,32,root,test,2022-12-04T12:22:16Z,root@ip-172-31-13-177.ec2.internal,f3ac71facec9831e85613296f27c19d1a00884a3:aws.txt:aws-access-token:1
