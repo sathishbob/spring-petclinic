@@ -1,6 +1,5 @@
 Testing sca
 
-[![Quality Gate Status](http://3.237.80.4:9000/api/project_badges/measure?project=java%3Afindbugs&metric=alert_status&token=2173ae85f2cd1d6da1445f178fe47d1f55882724)](http://3.237.80.4:9000/dashboard?id=java%3Afindbugs)
 
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
 
