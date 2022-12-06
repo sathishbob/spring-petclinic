@@ -64,7 +64,7 @@ pipeline {
             steps {
                sh '''rm -rf odc-reports
                      rm -rf .scannerwork
-                     em -rf out''' 
+                     rm -rf out''' 
                 sh " mvn package"     
             }
         }
