@@ -63,7 +63,8 @@ pipeline {
         stage("Build Source") {
             steps {
                sh '''rm -rf odc-reports
-                     rm -rf .scannerwork''' 
+                     rm -rf .scannerwork
+                     em -rf out''' 
                 sh " mvn package"     
             }
         }
